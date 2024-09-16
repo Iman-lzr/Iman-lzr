@@ -1,27 +1,89 @@
-### Hi there 👋, Im Laazraoui Imane
-#### I am Mobile Developer
+<img alt="coding" src="https://quotefancy.com/media/wallpaper/3840x2160/8119764-Cory-House-Quote-Code-is-like-humor-When-you-have-to-explain-it-it-s-bad.jpg" align="center">
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/16/78/f5/1678f5490b0bd11100e52d5823113573.jpg">
+<div>
+ <h1 align="center">Hi there 👋, Im Laazraoui Imane</h1>
+</div>
 
-I’m an Android developer who enjoys building apps with Kotlin . 
+<div>
+ <br>
+ <br>
+<img align="right" alt="coding" width="480" height="430" src="https://i.pinimg.com/564x/b2/a5/26/b2a5268bcad82177f833dcb36a9b2874.jpg">
+<br>
+
+<div>
+ <p align="left">
+ I’m an Android developer who enjoys building apps with Kotlin . 
 I focus on creating smooth user experiences and using tools like Firebase and SQLite for data management. Always looking to learn and improve, I aim to create functional and easy-to-use mobile applications.
+</p>
+<ul>
+ <li>🔭 I’m currently working on Android Developement</li>
+ <li>💬 Ask me about Android Applications</li>
+</ul>
+</div>
+<div>
+<h3 align="left">Languages and Tools:</h3>
+ <br>
+<p align="center">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+</p>
+</div>
+</div>
+
+<br>
+<br>
+<hr>
+<br>
+<div>
+<img src="https://i.gifer.com/74pZ.gif" alt="statics" align="left" width="400" height="400">
 
 
-
-Skills: Kotlin / FIrebase / Dart /Flutter / SQLite /Room /Retrofit
-
-- 🔭 I’m currently working on Android Developement 
-- 💬 Ask me about Android Applications 
-- 📫 How to reach me: imanelaazraoui@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Iman-lzr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/laazraouiIman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lzr-im/)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Iman-lzr)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iman-lzr&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Iman-lzr)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Iman-lzr)</div>
+</div>
 
+<br>
+<br>
+<br>
+<div align="center">
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Iman-lzr)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br>
+<br>
+<hr>
+<br>
+
+<div>
+<img src="https://cdn.dribbble.com/users/30820/screenshots/1800108/l_contact_animation.gif" width="400" align="right" alt="contact">
+
+<br>
+<br>
+<br>
+<div align="left">
+
+<h3 align="left">Connect with me:</h3>
+ <p align="left">
+<a href="https://linkedin.com/in/iman-laazraoui-b85647281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iman-laazraoui-b85647281" height="30" width="40" /></a>
+<a href="https://github.com/Iman-lzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="iman-laazraoui-b85647281" height="30" width="40" /></a>
+<a href="https://instagram.com/lzr_im" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lzr_im" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Or can you connect me in:</h3>
+ <p align="left">
+
+  <ul>
+   <li><a href="mailto:imanelaazraoui@gmail.com">imanelaazraoui@gmail.com</a></li>
+  </ul>
+ </p>
+</div>
+
+ 
+</div>
+ 
+</div>
