@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Android Developement**
 
-- 🌱 I’m currently learning **Firebase , SQLite, Room , Flutter,Dart , Kotlin**
+- 🌱 I’m currently learning **Firebase , SQLite , Room , Flutter , Dart , Kotlin**
 
 - 📫 How to reach me **imanelaazraoui@gmail.com**
 
