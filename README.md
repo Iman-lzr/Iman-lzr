@@ -40,7 +40,6 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iman-lzr&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Iman-lzr)</div>
 </div>
 
 <br>
@@ -55,8 +54,6 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 
 
 <div>
-
-
 <br>
 
 <div align="left">
