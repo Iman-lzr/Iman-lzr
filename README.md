@@ -7,7 +7,7 @@
 <div>
  <br>
  <br>
-<img align="right" alt="coding" width="300" height="400" src="https://i.pinimg.com/564x/78/8d/88/788d883ee389d9a6e5eb2a47dbc8cdec.jpg">
+
 <br>
 
 <div>
