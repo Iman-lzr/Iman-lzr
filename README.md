@@ -38,7 +38,7 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iman-lzr&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iman-lzr&show_icons=true&count_private=true&theme=dark)  
 
 </div>
 
@@ -47,7 +47,8 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 <br>
 <div align="center">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Iman-lzr)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Iman-lzr&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
@@ -56,21 +57,20 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 <div>
 <br>
 
-<div align="left">
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
- <p align="left">
+<h3 align="center">Connect with me:</h3>
+ <p align="center">
 <a href="https://linkedin.com/in/iman-laazraoui-b85647281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iman-laazraoui-b85647281" height="30" width="40" /></a>
 <a href="https://github.com/Iman-lzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="iman-laazraoui-b85647281" height="30" width="40" /></a>
 <a href="https://instagram.com/lzr_im" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lzr_im" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Or can you connect me in:</h3>
- <p align="left">
+<h3 align="center">Or can you connect me in:</h3>
+ <p align="center">
 
-  <ul>
-   <li><a href="mailto:imanelaazraoui@gmail.com">imanelaazraoui@gmail.com</a></li>
-  </ul>
+  <a href="mailto:imanelaazraoui@gmail.com">imanelaazraoui@gmail.com</a></li>
+
  </p>
 </div>
 
