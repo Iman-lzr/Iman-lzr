@@ -1,4 +1,4 @@
-<img alt="coding" src="https://quotefancy.com/media/wallpaper/3840x2160/8119764-Cory-House-Quote-Code-is-like-humor-When-you-have-to-explain-it-it-s-bad.jpg" align="center">
+<img alt="coding"  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" align="center">
 
 <div>
  <h1 align="center">Hi there 👋, Im Laazraoui Imane</h1>
@@ -7,7 +7,7 @@
 <div>
  <br>
  <br>
-<img align="right" alt="coding" width="480" height="430" src="https://i.pinimg.com/564x/b2/a5/26/b2a5268bcad82177f833dcb36a9b2874.jpg">
+<img align="right" alt="coding" width="300" height="400" src="https://i.pinimg.com/564x/78/8d/88/788d883ee389d9a6e5eb2a47dbc8cdec.jpg">
 <br>
 
 <div>
@@ -35,8 +35,6 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 <hr>
 <br>
 <div>
-<img src="https://i.gifer.com/74pZ.gif" alt="statics" align="left" width="400" height="400">
-
 
 <div align="center">
 
@@ -54,17 +52,13 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 
 </div>
 
-<br>
-<br>
-<hr>
-<br>
+
 
 <div>
-<img src="https://cdn.dribbble.com/users/30820/screenshots/1800108/l_contact_animation.gif" width="400" align="right" alt="contact">
+
 
 <br>
-<br>
-<br>
+
 <div align="left">
 
 <h3 align="left">Connect with me:</h3>
