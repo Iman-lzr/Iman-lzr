@@ -1,9 +1,11 @@
-<img alt="coding"  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" align="center">
+
 
 <div>
  <h1 align="center">Hi there 👋, Im Laazraoui Imane</h1>
 </div>
-
+ <br>
+<img alt="coding"  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" align="center">
+ <br>
 <div>
  <br>
  <br>
