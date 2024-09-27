@@ -68,7 +68,7 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
  <p align="center">
 <a href="https://linkedin.com/in/iman-laazraoui-b85647281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iman-laazraoui-b85647281" height="30" width="40" /></a>
 <a href="https://github.com/Iman-lzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="iman-laazraoui-b85647281" height="30" width="40" /></a>
-<a href="https://instagram.com/lzr_im" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lzr_im" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lzr_im" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Or can you connect me in:</h3>
