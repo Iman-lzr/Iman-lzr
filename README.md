@@ -20,7 +20,23 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 <ul>
  <li>🔭 I’m currently working on Android Developement</li>
  <li>💬 Ask me about Android Applications</li>
+
+ <li><a href="mailto:imanelaazraoui@gmail.com">imanelaazraoui@gmail.com</a></li>
+ 
 </ul>
+<div align="center">
+
+<h3 align="center">Connect with me:</h3>
+ <p align="star">
+<a href="https://linkedin.com/in/iman-laazraoui-b85647281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iman-laazraoui-b85647281" height="30" width="40" /></a>
+<a href="https://github.com/Iman-lzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="iman-laazraoui-b85647281" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lzr_im" height="30" width="40" /></a>
+</p>
+
+
+
+ </p>
+</div>
 </div>
 <div>
 <h3 align="left">Languages and Tools:</h3>
@@ -62,22 +78,7 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 <div>
 <br>
 
-<div align="center">
 
-<h3 align="center">Connect with me:</h3>
- <p align="center">
-<a href="https://linkedin.com/in/iman-laazraoui-b85647281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iman-laazraoui-b85647281" height="30" width="40" /></a>
-<a href="https://github.com/Iman-lzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="iman-laazraoui-b85647281" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lzr_im" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Or can you connect me in:</h3>
- <p align="center">
-
-  <a href="mailto:imanelaazraoui@gmail.com">imanelaazraoui@gmail.com</a></li>
-
- </p>
-</div>
 
  
 </div>
