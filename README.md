@@ -21,7 +21,6 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
  <li>🔭 I’m currently working on Android Developement</li>
  <li>💬 Ask me about Android Applications</li>
 
-// <li><a href="mailto:imanelaazraoui@gmail.com">imanelaazraoui@gmail.com</a></li>
  
 </ul>
 <div align="center">
