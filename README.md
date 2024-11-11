@@ -49,6 +49,14 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 </p>
 </div>
 </div>
+<br>
+<br>
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iman-lzr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <br>
 <br>
