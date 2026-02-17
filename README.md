@@ -54,7 +54,7 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iman-lzr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
@@ -66,7 +66,7 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iman-lzr&show_icons=true&count_private=true&theme=dark)  
+
 
 </div>
 
@@ -75,7 +75,6 @@ I focus on creating smooth user experiences and using tools like Firebase and SQ
 <br>
 <div align="center">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Iman-lzr&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 </div>
