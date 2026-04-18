@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imane</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I don’t follow paths, I learn how to build them</h3>
 
 <br>
