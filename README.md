@@ -46,9 +46,10 @@
 
 ---
 
+
 ### 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iman-lzr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iman-lzr&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -58,4 +59,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Iman-lzr&show_icons=true&theme=tokyonight"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iman-lzr&theme=tokyonight"/>
+</p>
+
+---
+
+
+### 📅 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iman-lzr&theme=tokyo-night"/>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Logic first. Everything else follows.
+   <br>  
+  ❤️ Built with love ❤️
+  <br>  
 </p>
