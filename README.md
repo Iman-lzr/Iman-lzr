@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">I don’t follow paths, I learn how to build them</h3>
+<h1 align="center" style="font-size:34px;
+  background: linear-gradient(90deg,#ffffff,#00ffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;">
+  Hi 👋
+</h1>
 
+<h3 align="center" style="font-size:18px; color:#dddddd;">
+  I don’t follow paths, I learn how to build them
+</h3>
 <br>
 
 <p align="center">
