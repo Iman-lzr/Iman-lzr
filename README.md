@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center" style="font-size:18px; color:#dddddd;">
-  I don’t follow paths, I learn how to build them 👊
+  I don’t follow paths, I learn how to build them 
 </h3>
 <br>
 
