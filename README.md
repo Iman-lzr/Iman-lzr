@@ -24,9 +24,7 @@
 
 ---
 ### 👩‍💻 About Me
-- 🧠 Engineering mindset focused on problem solving and logical thinking  
-- 🏗️ Passionate about software architecture and scalable system design  
-- 🎨 UX/UI aware developer focused on intuitive user experiences  
+
 - 🚀 Always learning, building, and improving through hands-on projects  
 
 ---
